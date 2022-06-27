@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TBC_HomeWorkk_4</string>
+    <string name="tiny_light_green_gradient_rounded_corners_rectangle">tiny light green gradient rounded corners rectangle</string>
+    <string name="sub_heading">lets introduce</string>
+    <string name="your_full_name">your full name</string>
+    <string name="username">Username</string>
+    <string name="next">Next</string>
+    <string name="next_button">next button</string>
+    <string name="previous_button">previous button</string>
+    <string name="hello">Hello!</string>
+</resources>
